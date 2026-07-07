@@ -42,6 +42,8 @@
     "@mantine/tiptap": "^9.4.0",
     "@optique/core": "^1.1.0",
     "@optique/run": "^1.1.0",
+    "@zip.js/zip.js": "^2.8.26",
+    "image-js": "1.6.1",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.9.4"
